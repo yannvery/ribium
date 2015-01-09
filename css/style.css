@@ -1,11 +1,11 @@
 body{
-  background-color:#fafafa;
+  background-color:#196FC1;
   text-align:center;
   margin:50px 0;
 }
 h1,h2,h3,h4,a,p{
   font-family: 'Open Sans', sans-serif;
-  color:#444;
+  color:#ffffff;
   line-height:1.4em;
 }
 hr{
@@ -13,7 +13,7 @@ hr{
 }
 
 a{
-  color:#444;
+  color:#ffffff;
   -webkit-transition:color .25s ease-in;
   -moz-transition:color .25s ease-in;-o-transition:color .25s ease-in;transition:color .25s ease-in
 }
@@ -28,4 +28,8 @@ a:hover{
 
 .fa-6x{
   font-size:6em !important;
+}
+
+.img-circle{
+  border: 5px solid #ffffff;
 }
